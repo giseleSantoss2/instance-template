@@ -28,6 +28,7 @@ resource "aws_instance" "instance" {
   associate_public_ip_address = false
   # vpc_security_group_ids      = [aws_security_group.security_group.id]
   # subnet_id                   = var.subnet_id
+  #iam_instance_profile         = var.role
 
   root_block_device {
     volume_type           = "gp3"
