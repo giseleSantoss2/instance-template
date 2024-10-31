@@ -1,4 +1,4 @@
-# instance-template# 🚀 Projeto Terraform - Provisionamento de Recursos AWS
+# instance-template# 🚀 Projeto Terraform 
 
 Projeto para provisionar e gerenciar recursos na AWS usando Terraform, incluindo **instâncias EC2** e **grupos de segurança**.
 ## 🌟 Funcionalidades
