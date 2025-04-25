@@ -1,3 +1,3 @@
-bucket         = "mybucket1506"
+bucket         = "mybucket0000"
 key            = "terraform.tfstate"
 region         = "us-east-1"
